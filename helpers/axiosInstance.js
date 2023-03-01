@@ -1,7 +1,7 @@
 import { getToken, removeToken } from "../helpers/AuthToken";
 import axios from "axios";
 
-const baseURL = "https://nikgallery.com/api/";
+const baseURL = "";
 let headers = {
   "Content-Type": "application/json",
 };
